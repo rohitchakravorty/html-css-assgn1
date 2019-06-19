@@ -1,0 +1,103 @@
+.fixed-header{
+    background-color:#555;
+}
+h1{
+    background:url(../img/html5.png) no-repeat;
+    text-indent:-9999px;
+    width: 128px;
+    height:128px;
+    float:left;
+    width:20%;
+    overflow: hidden;
+}/*for adding background image*/
+.fixed-header ul {
+    overflow: hidden; 
+    width: 80%;
+    margin-right: 100px; 
+    display: inline;
+  }
+.fixed-header a{
+    font-size: 26px;
+}
+  .fixed-header aside{
+      float:right;
+  }
+.fixed-header li{
+      text-size-adjust: 
+      padding-right: 10px;
+      padding-top: 50px;
+      display: inline-block;
+      }
+  
+ .fixed-header li a {
+    
+    display:block;
+    color: #000;
+    padding: 12px 16px;
+    text-decoration: none;
+  }
+  
+.fixed-header li a:hover {
+    background-color: #555;
+    color: #fff;
+  }
+  div{
+      padding: 2px;
+  }
+  
+.fixed-header{
+    
+    position: fixed;
+    top: 0px;
+    width:100%;
+    background-color: #fff;
+    
+}/*fixing the header*/
+p{
+    font-family: 'Raleway', sans-serif;
+
+}
+body{
+    background-image: url(../img/absurdity.png);
+}/*for adding background image*/
+.open{
+    overflow: hidden;
+    padding-top: 200px;
+
+}
+.footer{
+    height:80px;
+    background-color: #555;
+}
+.footer ul {
+ width:98%;
+  }
+ 
+.footer li{
+      padding-right: 10px;
+      display: inline-block;
+      float: right;
+      }
+  
+ .footer li a {
+    
+    display:block;
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+  }
+  
+.footer li a:hover {
+    background-color: #555;
+    color: #fff;
+  }
+.footer p{
+    padding-top: 15px;
+    float:left;
+    width:40%;
+    color: #fff;
+}
+.hero p{
+    font-family: 'Slabo 27px', serif;
+    margin-bottom: 50%;
+}
