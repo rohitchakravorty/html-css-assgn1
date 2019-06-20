@@ -4,6 +4,16 @@
 *.js
 *.md
 *.xml
+Type	Name	Latest commit message	Commit time
+css	updates	10 hours ago
+img	first release	yesterday
+.editorconfig	first release	yesterday
+.gitattributes	first release	yesterday
+.gitignore	first release	yesterday
+.htaccess	first release	yesterday
+_config.yml	Set theme jekyll-theme-minimal	10 hours ago
+index.html	updates	10 hours ago
+Add a README Help people interested in this repository understand your project by adding a README.
 *.txt
 *.ico
 icon.png
@@ -12,3 +22,7 @@ icon.png
 tile.png
 tile-wide.png
 .htdocs
+404.html
+.htaccess
+.gitattributes
+.editorconfig
