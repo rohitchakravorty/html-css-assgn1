@@ -4,8 +4,8 @@
 h1{
     background:url(../img/html5.png) no-repeat;
     text-indent:-9999px;
-    width: 128px;
-    height:128px;
+    width: 64px;
+    height:64px;
     float:left;
     width:20%;
     overflow: hidden;
@@ -103,5 +103,6 @@ footer li:hover,li a:hover {
    border:solid;
    border-color: #000;
    border-width: 1px; 
+   margin-bottom: 30PX;
   }
   
